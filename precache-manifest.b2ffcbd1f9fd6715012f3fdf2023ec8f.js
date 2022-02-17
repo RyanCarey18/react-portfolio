@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6f4ddefe15759515cdbefb8a5823dca",
+    "revision": "aab4a8127a77d68f58d0a0cac93cca0b",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "283874e7a82a1962a1c3",
+    "revision": "bd73225a3364cbb59a17",
     "url": "/react-portfolio/static/css/main.d5870e7c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "283874e7a82a1962a1c3",
-    "url": "/react-portfolio/static/js/main.d78e3667.chunk.js"
+    "revision": "bd73225a3364cbb59a17",
+    "url": "/react-portfolio/static/js/main.12fb32d2.chunk.js"
   },
   {
     "revision": "73a871a578ef5a2aeb49",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/cover-image.402a471b.jpg"
   },
   {
-    "revision": "c605527e6fe0f455a27dcf5786e67b5a",
-    "url": "/react-portfolio/static/media/grocery-application.c605527e.png"
+    "revision": "9b97f7db00f064d48bb74c804d2d33a0",
+    "url": "/react-portfolio/static/media/grocery-application.9b97f7db.png"
   },
   {
     "revision": "f864910a1be47b50c3b225aa201d8ed3",
