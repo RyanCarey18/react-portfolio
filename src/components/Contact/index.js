@@ -77,6 +77,11 @@ function Contact() {
         )}
         <button type="submit">Submit</button>
       </form>
+      <div>
+        {" "}
+        Or Call me at :<a href="tel:603-313-0370">603-313-0370</a> Email me at:
+        <a href="mailto:ryan.carey18@gmail.com">Ryan.Carey18@gmail.com</a>
+      </div>
     </section>
   );
 }

@@ -5,8 +5,14 @@ function Resume() {
     <section className="my-5">
       <div className="my-2">
         <p>
-          Download my
+          Download my{" "}
           <a href="../../assets/me/Ryan-Carey-Resume.pdf" target="blank">
+            resume
+          </a>
+          <a
+            href="https://ryancarey18.github.io/Portfolio/assets/Ryan-Carey-Resume.pdf"
+            target="blank"
+          >
             resume
           </a>
         </p>
