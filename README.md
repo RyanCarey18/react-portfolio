@@ -16,13 +16,13 @@ Click [here](https://ryancarey18.github.io/react-portfolio/) to go to the deploy
 
 - [Usage](#Usage)
 
-- [Contributing](#Contributing)
-
-- [Tests](#Tests)
-
 - [License](#License)
 
+- [Contributing](#Contributing)
+
 - [Questions](#Questions)
+
+- [Pictures](#Pictures)
 
 ## Installation
 
