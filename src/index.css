@@ -140,6 +140,10 @@ span[role="img"] {
   cursor: default;
 }
 
+nav ul li:hover{
+  text-shadow: 10px 10px 100px rgb(161, 185, 188);
+}
+
 form {
   width: 40%;
 }
