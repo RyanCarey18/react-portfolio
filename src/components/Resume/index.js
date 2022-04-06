@@ -4,14 +4,15 @@ function Resume() {
   return (
     <section className="my-5">
       <div className="my-2">
-        <p>
+        <p className="center">
           Download my{" "}
           <a
             href="https://ryancarey18.github.io/Portfolio/assets/Ryan-Carey-Resume.pdf"
             target="blank"
           >
-            resume
-          </a>
+            Resume
+          </a>{" "}
+          here.
         </p>
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">

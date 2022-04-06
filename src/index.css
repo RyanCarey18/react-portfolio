@@ -35,7 +35,7 @@ body {
   letter-spacing: 0.1em;
   background: var(--darker);
   color: var(--light);
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Sora', sans-serif;
 }
 
 h1,
@@ -44,10 +44,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Aladin", cursive;
+  font-family: 'Hahmlet', serif;
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
+  text-align: center;
 }
 
 h1 {
@@ -119,6 +120,7 @@ button {
 .me-pic {
   max-width: 20%;
   border: 5px var(--dark) ridge;
+  justify-content: center;
 }
 
 button:hover {
@@ -190,7 +192,7 @@ header img {
 
 nav {
   position: relative;
-  font-family: "Aladin", cursive;
+  font-family: 'Hahmlet', serif;
   font-size: 2.5rem;
   margin: 30px 20px;
 }
@@ -207,10 +209,13 @@ nav li {
 
 ul.skills {
   line-height: 2rem;
+  text-align: center;
 }
 
 ul.skills li {
   list-style-type: circle;
+  list-style-position: inside;
+  margin-left: -20px;
 }
 
 footer {
@@ -311,6 +316,10 @@ textarea {
   text-align: center;
 }
 
+.center {
+  text-align: center;
+}
+
 .project {
   position: relative;
   width: 100%;
@@ -359,6 +368,10 @@ textarea {
   color: var(--darker);
 }
 
+.profile-img {
+  text-align: center;
+}
+
 .navActive {
   color: var(--secondary);
   cursor: default;
@@ -392,5 +405,8 @@ textarea {
     width: 100%;
     text-align: center;
     font-size: 2.3rem;
+  }
+  .me-pic {
+    max-width: 50%;
   }
 }
