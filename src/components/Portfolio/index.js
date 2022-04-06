@@ -6,41 +6,38 @@ function Portfolio() {
   const [projects] = useState([
     {
       name: "grocery-application",
-      description:
-        "HTML, CSS, Bootstrap, Handlebars, SQL, Sequelize, Express.js,Node.js",
+      description: "Handlebars, SQL, Sequelize, Express.js, Node.js",
       link: "https://vast-ocean-43647.herokuapp.com/",
       repo: "https://github.com/RyanCarey18/grocery-application",
     },
     {
       name: "marvel-search",
-      description: "HTML, JavaScript, CSS, API, JQuery, GoogleFonts",
+      description: "APIs, JQuery, GoogleFonts, Tailwind, ",
       link: "https://ryancarey18.github.io/Marvel-Character-Search/",
       repo: "https://github.com/RyanCarey18/Marvel-Character-Search",
     },
     {
       name: "techblog",
       description:
-        "HTML, CSS, Bootstrap, Handlebars, SQL, Sequelize, Express.js, Node.js",
+        "Bootstrap, Handlebars, SQL, Sequelize, Express.js, express-session",
       link: "https://murmuring-shelf-05135.herokuapp.com/",
       repo: "https://github.com/RyanCarey18/tech-blog",
     },
     {
-      name: "weather-application",
+      name: "team-profile-generator",
       description: "HTML,CSS,BOOTSTRAP,JS",
-      link: "https://ryancarey18.github.io/Weather-Application/",
-      repo: "https://github.com/RyanCarey18/Weather-Application",
+      repo: "https://github.com/RyanCarey18/team-profile-generator",
     },
     {
-      name: "workday-scheduler",
-      description: "PWA, Heroku, IndexDb",
+      name: "sigma-cleaning",
+      description: "REACT.js, GraphQL, Heroku, JWT",
       link: "https://ryancarey18.github.io/workday-scheduler/",
-      repo: "https://github.com/RyanCarey18/workday-scheduler",
+      repo: "https://sigma-cleaning.herokuapp.com/",
     },
     {
-      name: "text-editor",
-      description: "HTML, CSS, JS",
-      link: "https://ryans-text-editor.herokuapp.com/",
-      repo: "https://github.com/RyanCarey18/text-editor-pwa",
+      name: "api-social-network",
+      description: "MongoDB, Mongoose, Express.js",
+      repo: "https://github.com/RyanCarey18/API-Social-Network",
     },
   ]);
 
